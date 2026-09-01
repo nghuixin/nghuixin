@@ -1,9 +1,9 @@
 # Hi, I'm Renee 👋 
 
-Some of you also know me as 慧欣.   ⋆˚꩜｡⊹ ࣪ ˖. ݁˖⋆˙ 
+Some of you also know me as 慧欣.   ⋆˚꩜｡⊹ ࣪ ˖. ݁˖⋆˙    
 I'm a computational scientist and solutions engineer working at the intersection of **biomedical research, data science, and applied AI**.
 
-I received my PhD from UC San Diego's cognitive science department. More recently, I've been building AI-enabled workflows for biotech—from **target discovery and evidence synthesis to clinical-trial and scientific data workflows**.
+I received my PhD from UC San Diego's cognitive science department. More recently, I've been building AI-enabled workflows for biotech—from **target discovery to clinical-trial and scientific data workflows**.
 
 ### 🔬 What I work on
 
