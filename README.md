@@ -1,6 +1,6 @@
 # Hi, I'm Renee 👋 
 
-Some of you also know me as 慧欣.   ⋆˚꩜｡⊹ ࣪ ˖. ݁˖⋆˙    
+Some of you also know me as 慧欣.   ⋆ ⊹ ࣪ ˖. ݁˖⋆˙    
  
 I'm a biomedical data scientist and solutions engineer working at the intersection of **biology, software, and AI**.   
 More recently, I've been building AI-enabled workflows for biotech—from **target discovery to clinical-trial design and scientific data engineering**.    
