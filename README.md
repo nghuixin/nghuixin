@@ -1,6 +1,6 @@
 # Hi, I'm Renee 👋 
 
-Some of you also know me as 慧欣.   ⋆ ⊹ ࣪ ˖. ݁˖⋆˙    
+Some of you also know me as 慧欣  ⋆ ⊹ ࣪ ˖. ݁˖⋆˙    
  
 I'm a biomedical data scientist and solutions engineer working at the intersection of **biology, software, and AI**.   
 More recently, I've been building AI-enabled workflows for biotech—from **target discovery to clinical-trial design and scientific data engineering**.    
@@ -35,5 +35,4 @@ Some of my efforts include:
 * teaching coding and reproducible software best practices via the Carpentries at academic (Howard U, UCSD, Stanford), government (CDC) and industry settings (Genentech)
 
 ### 💬 Let's connect
-
-I'e **biotech, scientific software, and open-source research tools**.
+I value community, mentorship, curiosity, and purpose-aligned leadership over linear career paths or titles. I am excited by who I get to learn from and build with. Please reach out if you work at the intersection of **biology, software, and AI**.  
