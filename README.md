@@ -1,9 +1,7 @@
 # Hi, I'm Renee 👋 
-
-Some of you also know me as 慧欣  ⋆ ⊹ ࣪ ˖. ݁˖⋆˙    
  
 I'm a biomedical data scientist and solutions engineer working at the intersection of **biology, software, and AI**.   
-More recently, I've been building AI-enabled workflows for biotech—from **target discovery to clinical-trial design and scientific data engineering**.    
+More recently, I've been building AI-enabled workflows for biotech—from **target discovery to clinical-trial design and scientific data engineering**.   
 
 🧠 My PhD research combined computational techniques and domain knowledge in clinical neuroscience and psychology to understand factors that contribute to brain aging in bipolar disorder.   
 💻 I have work experience in product management, UX research, and business development in health tech startups in 🇲🇾🇵🇭 taking an amorphous idea from 0 to 1 is an intrinsically rewarding process to me.    
