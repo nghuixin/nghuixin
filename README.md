@@ -32,10 +32,10 @@ Some of my efforts include:
 🙌 I enjoy learning about “ancestral movement” approaches to physical activity, and practicing slow-travel —immersing myself in a single location for an extended time to fully experience the culture.  
 ✨ My name in Mandarin is 慧欣 (Hui Xin) — indeed there is a space between my first name.   
 
-A few questions that serve as my north star  
-How can we leverage computational techniques and power to advance biomarker discovery and personalized medicine?  
-How can we incentivize best practices for reproducibility and replicability (e.g., data sharing, detailed methods section, and publishing negative data)?  
-How can we translate science into real-world impact (i.e. what does it take to bring scientific innovation to market responsibly and effectively)?  
+A few questions that serve as my north star:  
+- How can we leverage computational techniques and power to advance biomarker discovery and personalized medicine?    
+- How can we incentivize best practices for reproducibility and replicability (e.g., data sharing, detailed methods section, and publishing negative data)?    
+- How can we translate science into real-world impact (i.e. what does it take to bring scientific innovation to market responsibly and effectively)?    
 I value community, mentorship, curiosity, and purpose-aligned leadership over linear career paths or titles. I am excited by who I get to learn from and build with.  
 
 ### 💬 Let's connect
