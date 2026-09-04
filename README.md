@@ -3,7 +3,8 @@
 I'm a biomedical data scientist and solutions engineer working at the intersection of **biology, software, and AI**.   I lead and support collaborative initiatives that drive scientific discovery by making data AI-ready and creating open, scalable and streamlined research infrastructure.    
 More recently, I've been building AI-enabled workflows for biotech—from **target discovery to clinical-trial design and scientific data engineering**.   
 
-### 🔬 What I work on these days ([!Latest Commit](https://shields.io))    
+### 🔬 What I work on these days (![Relative date](https://img.shields.io/date/:1540814400))
+
 
 * 🧬 Computational biology & biomedical data science  
 * 🤖 Applied AI and agentic scientific workflows  
