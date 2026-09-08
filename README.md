@@ -1,7 +1,15 @@
-# Hi, I'm Renee 👋 
+
+
+###
+
+<br clear="both">
+
+<h1 align="center"> Hi, I'm Renee 👋 </h1>
+
+###
  
 I'm a biomedical data scientist and solutions engineer working at the intersection of **biology, software, and AI**.   I lead and support collaborative initiatives that drive scientific discovery by making data AI-ready and creating open, scalable and streamlined research infrastructure.    
-More recently, I've been building AI-enabled workflows for biotech—from **target discovery to clinical-trial design and scientific data engineering**.   
+More recently, I've been building AI-enabled workflows for biotech. from **target discovery to clinical-trial design and scientific data engineering**.   
 
 ### 🔬 What I work on these days (last updated: Sept 2026)
 
@@ -40,3 +48,11 @@ I value community, mentorship, curiosity and purpose-aligned leadership over lin
 
 ### 💬 Let's connect
 I value community, mentorship, curiosity, and purpose-aligned leadership over linear career paths or titles. I am excited by who I get to learn from and build with. Please reach out if you work at the intersection of **biology, software, and AI**.  
+
+###
+
+<div align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=nghuixin.visitor-badge&left_text=visitors&left_color=%23602fe4&right_color=%233fa338&radius=6" alt="visitor badge"/>
+</div>
+
+###
