@@ -22,7 +22,7 @@ Data Science: Python · R · pandas · NumPy · scikit-learn · Statistical Mode
 Some of my efforts include:  
 * contributing to the The Turing Way 
 * creating mini resources for reproducible computational science for psyschology researchers
-* * Teaching coding and reproducible software best practices via **The Carpentries** in academic ([Howard U](https://rcgayle.github.io/2025-03-24-sloan-howard-online/), [UCSD](https://codimd.carpentries.org/s/vjgq5h2dtwify8o0b98yha), [Stanford](https://nghuixin.github.io/2026-03-09-stanford-online/)), government ([CDC](https://nghuixin.github.io/2026-04-14-CDC-online/)), and industry settings ([Genentech](https://nghuixin.github.io/2026-10-08-genentech/)).
+* Teaching coding and reproducible software best practices via **The Carpentries** in academic ([Howard U](https://rcgayle.github.io/2025-03-24-sloan-howard-online/), [UCSD](https://codimd.carpentries.org/s/vjgq5h2dtwify8o0b98yha), [Stanford](https://nghuixin.github.io/2026-03-09-stanford-online/)), government ([CDC](https://nghuixin.github.io/2026-04-14-CDC-online/)), and industry settings ([Genentech](https://nghuixin.github.io/2026-10-08-genentech/)).
 
 ### About 
 🧠 My PhD research combined computational techniques and domain knowledge in clinical neuroscience and psychology to understand factors that contribute to brain aging in bipolar disorder.   
