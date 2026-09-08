@@ -22,7 +22,7 @@ Data Science: Python · R · pandas · NumPy · scikit-learn · Statistical Mode
 Some of my efforts include:  
 * contributing to the The Turing Way 
 * creating mini resources for reproducible computational science for psyschology researchers
-* teaching coding and reproducible software best practices via the Carpentries at academic (Howard U, UCSD, Stanford), government (CDC) and industry settings (Genentech)  
+* teaching coding and reproducible software best practices via the Carpentries at academic (Howard U, [UCSD]([url](https://codimd.carpentries.org/s/vjgq5h2dtwify8o0b98yha))), [Stanford]([url](https://nghuixin.github.io/2026-03-09-stanford-online/))), government (CDC) and industry settings ([Genentech]([url](https://nghuixin.github.io/2026-10-08-genentech/)))  
 
 ### About 
 🧠 My PhD research combined computational techniques and domain knowledge in clinical neuroscience and psychology to understand factors that contribute to brain aging in bipolar disorder.   
@@ -36,7 +36,7 @@ A few questions that serve as my north star:
 - How can we leverage computational techniques and power to advance biomarker discovery and personalized medicine?    
 - How can we incentivize best practices for reproducibility and replicability (e.g., data sharing, detailed methods section, and publishing negative data)?    
 - How can we translate science into real-world impact (i.e. what does it take to bring scientific innovation to market responsibly and effectively)?    
-I value community, mentorship, curiosity, and purpose-aligned leadership over linear career paths or titles. I am excited by who I get to learn from and build with.  
+I value community, mentorship, curiosity and purpose-aligned leadership over linear career paths or titles. I am excited by who I get to learn from and build with.  
 
 ### 💬 Let's connect
 I value community, mentorship, curiosity, and purpose-aligned leadership over linear career paths or titles. I am excited by who I get to learn from and build with. Please reach out if you work at the intersection of **biology, software, and AI**.  
