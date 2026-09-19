@@ -30,7 +30,7 @@ Some of my efforts include:
 
 ### 🎨 About 
 🧠 My PhD research combined computational techniques and domain knowledge in clinical neuroscience and psychology to understand factors that contribute to brain aging in bipolar disorder.   
-💻 I have work experience in product management, UX research, and business development in health tech startups in 🇲🇾🇵🇭 taking an amorphous idea from 0 to 1 is an intrinsically rewarding process to me.    
+💻 I have work experience in product management, UX research, and business development in health tech startups in Malaysia and Philippines taking an amorphous idea from 0 to 1 is an intrinsically rewarding process to me.    
 🌐 I love building community; building out Nucleate’s Global Life Sciences program to faciliate connections between Nucleate chapters across the world and co-founding TechBio Transformers reinforced my belief that accelerating innovation means empowering the people behind it.  
 📚 I received my PhD from the Cognitive Science department of the University of California San Diego in 2025.   
 🙌 I enjoy learning about “ancestral movement” approaches to physical activity, and practicing slow-travel —immersing myself in a single location for an extended time to fully experience the culture.  
