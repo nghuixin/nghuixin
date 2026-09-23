@@ -45,9 +45,8 @@ I value community, mentorship, curiosity and purpose-aligned leadership over lin
 ### 💬 Let's connect
 I value **community, mentorship, curiosity, and purpose-aligned leadership** over linear career paths or titles. I am excited by who I get to learn from and build with. Please reach out if you work at the intersection of **biology, software, and AI**.      
 
-"If you hide your ignorance, no one will hit you and you'll never learn." - Ray Bradbury
-
-
+###
+<p align="center"><i>"If you hide your ignorance, no one will hit you and you'll never learn." — Ray Bradbury</i></p>
 
 ###
 
