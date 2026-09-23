@@ -5,7 +5,7 @@
 
 ###
  
-I'm a biomedical data scientist and solutions engineer working at the intersection of **biology, software, and AI**.   I lead and support collaborative initiatives that drive scientific discovery by making data AI-ready and creating open, scalable and streamlined research infrastructure.    
+I'm a biomedical data scientist and solutions engineer working at the intersection of **bio x computation x data**.   I lead and support collaborative initiatives that drive scientific discovery by making data AI-ready and creating open, scalable and streamlined research infrastructure.    
 
 ### 🔬 What I work on these days (last updated: Sept 2026)
 
@@ -43,7 +43,7 @@ A few questions that serve as my north star:
 I value community, mentorship, curiosity and purpose-aligned leadership over linear career paths or titles. I am excited by who I get to learn from and build with.  
 
 ### 💬 Let's connect
-I value **community, mentorship, curiosity, and purpose-aligned leadership** over linear career paths or titles. I am excited by who I get to learn from and build with. Please reach out if you work at the intersection of **biology, software, and AI**.      
+I value **community, mentorship, curiosity, and purpose-aligned leadership** over linear career paths or titles. I am excited by who I get to learn from and build with. Please reach out if you work at the intersection of  **bio x computation x data**     
 
 ###
 <p align="center"><i>"If you hide your ignorance, no one will hit you and you'll never learn." — Ray Bradbury</i></p>
